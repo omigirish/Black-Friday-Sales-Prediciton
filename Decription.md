@@ -15,4 +15,5 @@ For more explanation refer to my
 
 ## Results:
 I used XGBoost Regressor to achieve a Mean Square Error of 2700.
-![Image](https://drive.google.com/file/d/1ZxTbm_VA_VwEPeEvoKTa9P-3hXTXukFy/view)
+
+![Image](https://github.com/omigirish/Black-Friday-Sales-Prediciton/blob/master/XGBoost.jpeg)
